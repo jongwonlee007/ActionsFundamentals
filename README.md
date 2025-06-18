@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals (8:37AM)
+# GitHub Actions Fundamentals (8:43AM; trigger pull_request)
 [skip ci]
 
 Repo for the `GitHub Actions Fundamentals` training.
